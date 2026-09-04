@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "template": "vite_react_v2",
+  "generationScope": "static",
+  "capabilities": [],
+  "integrations": {},
+  "phases": {
+    "completed": [
+      "foundation"
+    ],
+    "current": "polish",
+    "pending": []
+  },
+  "lastJobId": "6f8e86267698431bb5f97c2ffe11907d",
+  "mode": "improve_job",
+  "projectName": "nuvra-landing"
+}
