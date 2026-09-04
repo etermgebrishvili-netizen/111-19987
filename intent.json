@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generationScope": "static",
+  "capabilities": [],
+  "integrations": {},
+  "webhookFlags": {
+    "supabaseNeeded": false,
+    "stripeNeeded": false,
+    "openAINeeded": false
+  },
+  "detectionSources": [
+    "prior_intent",
+    "prior_intent_scope",
+    "generation_scope:static"
+  ],
+  "presentationMode": false
+}
